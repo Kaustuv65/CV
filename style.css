@@ -1,0 +1,22 @@
+.container
+{
+    border:2px solid black;
+    margin:50px 480px;
+    padding-left: 6px;
+}
+#box
+{
+    border:1px solid #8a568e;
+    border-radius: 15px;
+    background-color: #8a568e;
+    text-align: center;
+}
+.under
+{
+    border-style: outset;
+}
+.photo
+{
+    height: 155px;
+    width: 150px;
+}
